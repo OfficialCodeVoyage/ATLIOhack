@@ -1,0 +1,5 @@
+opencv-python >= 3.4.x
+numpy >= 1.17.2
+skimage >= 0.16.2
+tensorflow >= 2.x.
+imutils >= 0.5.3

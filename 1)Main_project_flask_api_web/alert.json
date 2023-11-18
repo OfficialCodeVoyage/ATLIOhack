@@ -1,0 +1,46 @@
+[
+    {
+        "alertId": 9,
+        "alertTime": "2023-11-18T10:25:00Z",
+        "alertLocation": "Dallas, Texas, United States",
+        "alertType": "Missing Person",
+        "missingPerson": {
+            "name": "William Turner",
+            "age": 60,
+            "gender": "Male",
+            "description": "White hair, blue eyes, height 5'8",
+            "lastSeen": "2023-11-18T10:10:00Z",
+            "lastSeenLocation": "456 Main Street, Dallas, Texas",
+            "clothing": "Brown jacket, jeans"
+        },
+        "suspectVehicle": {
+            "type": "SUV",
+            "make": "Jeep",
+            "model": "Grand Cherokee",
+            "color": "Gray",
+            "licensePlate": "CSD5055"
+        }
+    },
+    {
+        "alertId": 10,
+        "alertTime": "2023-11-18T10:35:00Z",
+        "alertLocation": "Phoenix, Arizona, United States",
+        "alertType": "Missing Person",
+        "missingPerson": {
+            "name": "Linda Martinez",
+            "age": 45,
+            "gender": "Female",
+            "description": "Black hair, brown eyes, height 5'6",
+            "lastSeen": "2023-11-18T10:20:00Z",
+            "lastSeenLocation": "123 Desert Road, Phoenix, Arizona",
+            "clothing": "Red blouse, blue jeans"
+        },
+        "suspectVehicle": {
+            "type": "Car",
+            "make": "Ford",
+            "model": "Escape",
+            "color": "Silver",
+            "licensePlate": "YZA3456"
+        }
+    }
+]
